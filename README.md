@@ -240,7 +240,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 ### **`👑 PROPIETARIO`**
 <a
-href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="130" height="130" alt="David"/></a>
+href="https://github.com/David-Chian"><img src="https://github.com/abrahan987.png" width="130" height="130" alt="David"/></a>
 
 ### **`🌹 CREDITOS`**
 <a
