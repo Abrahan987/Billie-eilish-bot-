@@ -481,5 +481,3 @@ global.rpgshopp = { // Tienda
       kyubi: '🌀',
       gold: '👑',
       money: '❤️‍🔥',
-      tiketcoin: '🎫',
-      stamina
