@@ -235,7 +235,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 ### **`🌴 COLABORADORES`**
 <a href="https://github.com/Abrahan987/Billie-eilish-bot-/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=David-Chian/Megumin-Bot-MD" /> 
+<img src="https://contrib.rocks/image?repo=Abrahan987/Billie-eilish-bot-" /> 
 </a>
 
 ### **`👑 PROPIETARIO`**
