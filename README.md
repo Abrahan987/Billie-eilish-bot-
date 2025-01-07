@@ -244,6 +244,6 @@ href="https://github.com/David-Chian"><img src="https://github.com/abrahan987.pn
 
 ### **`🌹 CREDITOS`**
 <a
-href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="BrunoSobrino"/></a>
+href="https://github.com/BrunoSobrino"><img src="https://github.com/abrahan987.png" width="130" height="130" alt="BrunoSobrino"/></a>
 
 [© Powered By SERVIDOR DE PROGRAMACIÓN ⚡︎](https://whatsapp.com/channel/0029VaehG4gKmCPX449RbA2T)
