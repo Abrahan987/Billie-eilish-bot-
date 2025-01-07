@@ -1,5 +1,5 @@
 <h1 align="center">BILLIE💥</h1>
- <p align="center">💣 WhatsApp Bot Node-Js.</p>
+ <p align="center"> WhatsApp Bot💚.</p>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Billie+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Abrahan+M;💚+BOOM!!!;🔥)](https://git.io/typing-svg)
